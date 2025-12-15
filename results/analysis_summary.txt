@@ -1,0 +1,21 @@
+Summary of Movie Rating Analysis and Prediction
+
+Linear Regression RMSE: 1.90
+Random Forest  RMSE: 1.85
+
+Feature Importance:
+vote_count: 0.411
+popularity: 0.326
+runtime: 0.263
+
+Top 10 Genres:
+Action: 48
+Thriller: 31
+Adventure: 24
+Drama: 24
+Comedy: 22
+Horror: 21
+Crime: 20
+Fantasy: 19
+Romance: 15
+Science Fiction: 14
